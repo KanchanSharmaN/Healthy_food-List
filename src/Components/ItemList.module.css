@@ -1,0 +1,11 @@
+.list {
+    background-color: white;
+    color: brown;
+    font-weight: 700;
+    display: inline;
+    text-align: left;
+  }
+  .btn{
+    float: right;
+  }
+  
